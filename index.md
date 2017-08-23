@@ -8,6 +8,12 @@ title: Home
 ## Our Mission:
 To research and develop an open LoRaWAN consisting of one or more gateway devices, multiple sensor devices, and a central server. All of this in the central Dunedin area, to provide access to user data for use in custom mobile/web/desktop applications.
 
+### Current Status:
+Planning to buy and build the enclosures for the gateway.
+Deciding on the top-level domain name for the server.
+
+### Future Plan:
+Build the gateways and have them up and working by week 8.
 
 ## What is the Internet of Things?
 The Internet of Things is the inter-networking of devices such as smart devices, sensors, software, and other items embedded with electronics.
@@ -17,11 +23,30 @@ different technology to achieve *this*. Our Iot solution is implemented using Lo
 
 ## LoRaWAN Network
 LoRaWAN is a low-power, long-range wide area network standard devised by the LoRa Alliance.
-It is intended for long-life, battery operated sensor devices to communicate sensed data to a central server via one or more internet-connected gateway devices capable of receiving radio transmissions.
+It is intended for long-life, battery operated sensor devices to communicate sensed data to a central server via one or more internet-connected gateway devices capable of receiving radio transmissions. LoRaWAN targets key requirements of the IoT such as secure bi-directional communication, mobility and localisation services. The main reason we want to use LoRaWAN is because of its Low Power Long Range capability. There are other technologies that offer this functionality, however we have chosen to use LoRa because of how it is open source.
 
+### LoRa vs LoRaWAN
+LoRaWAN includes the network layer opposed to LoRa which only contains the link layer protocol so it's possible to send information to any Base Station already connected to a cloud patform.
+LoraWAN modules potentially work in different frequencies by only connecting the right antenna into the appropriate socket. LoRa modules are also cheaper than LoRaWAN's ones.  
 
-### Current Status:
-Testing prototype working, but not on the right frequencies. 
+### Advantages and disadvantages of LoRa vs other technologies
+#### LoRa vs Sigfox
 
-### Future Plan:
-Move prototype to new hardware and onto the right frequencies. (Next semester).
+Sigfox has a small limitation with their technology, for example how it send data back to the sensor is very limited and is possible for signal interference to be an issue.
+LoRa is a large open source non-profit association.
+LoRa and Sigfox share similar functionality in that it's primarily for uplink-only applications with multiple end-points. 
+The main difference between Sigfox and LoRa is the fact that Sigfox uses narrowband transmission where LoRa spreads out information via different frequency channels using encyrpted messages. This improves the capacity of the gateway as the messages are less likely to collides and interfere with one another. 
+
+### LoRa vs Cellular
+
+LoRa trumps Cellular in terms of battery consuption. For example, the LTE Cat-1 (Cellular network) battery life time for 200 mAH is 1.5 years where LoRaWAN is up to 9 years.
+LoRa is developed to work only with IoT devices which needs best in class battery life. 
+
+### LoRa vs WiFi
+
+In terms of range, WiFI has a typical range of reaching around 3 metres where LoRa can reach up to 15 kms. An advantage of WiFi is that many consumer devices already support WiFi which means that the service is readily available to the many potential users in the city. 
+
+### Network Diagram
+
+![alt text](http://127.0.0.1:4000/ThingsNetworkDunedin/Archive/images/Network Diagram.png)
+
