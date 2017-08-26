@@ -6,14 +6,14 @@ title: Research
 # Research
 
 ## Gateway
-[Gateway](http://otagopolytechnic.github.io/ThingsNetworkDunedin/research/gateway/README.html)
+[Gateway](http://otagopolytechnic.github.io/DunedinIoT/research/gateway/README.html)
 
 ## Server
-[Server](http://otagopolytechnic.github.io/ThingsNetworkDunedin/research/accessingServerData/README.html)
+[Server](http://otagopolytechnic.github.io/DunedinIoT/research/accessingServerData/README.html)
 
 ## LoRaWAN
-[LoRaWAN](http://otagopolytechnic.github.io/ThingsNetworkDunedin/research/loraQA)
+[LoRaWAN](http://otagopolytechnic.github.io/DunedinIoT/research/loraQA)
 
 ## Internet of Things
-[IOT](http://otagopolytechnic.github.io/ThingsNetworkDunedin/research/iotQA)
+[IOT](http://otagopolytechnic.github.io/DunedinIoT/research/iotQA)
 

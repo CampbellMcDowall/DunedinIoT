@@ -1,5 +1,5 @@
-name: ThingsNetworkDunedin
+name: DunedinIoT
 markdown: kramdown
-baseurl: /ThingsNetworkDunedin
+baseurl: /DunedinIoT
 theme: jekyll-theme-cayman
-repository: otagopolytechnic.github.io/ThingsNetworkDunedin
+repository: otagopolytechnic.github.io/DunedinIoT

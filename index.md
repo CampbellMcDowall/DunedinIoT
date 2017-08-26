@@ -48,5 +48,5 @@ In terms of range, WiFI has a typical range of reaching around 3 metres where Lo
 
 ### Network Diagram
 
-![alt text](https://otagopolytechnic.github.io/ThingsNetworkDunedin/Archive/images/Network Diagram.png)
+![alt text](https://otagopolytechnic.github.io/DunedinIoT/Archive/images/Network Diagram.png)
 
