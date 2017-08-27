@@ -9,7 +9,7 @@ title: Raspberry Pi + Lora MCard AU915 Gateway
 
 ## Prep
 
-### Installing Raspian Jessie on a Pi 2:
+### Installing Raspbian Jessie on a Pi 2:
 
 First, Format SD card FAT32 - On a Windows machine use:
 
@@ -18,13 +18,13 @@ Download SD card formatter: https://www.sdcard.org/downloads/formatter_4/eula_wi
 <img src="formatting.jpg" width="400">
 
 
-Follow the tutorial here to install Raspian Jessie:
+Follow the tutorial here to install Raspbian Jessie:
 
 https://www.howtoforge.com/tutorial/howto-install-raspbian-on-raspberry-pi/#-downloading-raspbian-and-image-writer
 
 Additional links:
 
-Latest Raspian Jessie Lite download: http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-07-05/
+Latest Raspbian Jessie Lite download: http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-07-05/
 
 <img src="jessiedownload.jpg" width="600">
 
