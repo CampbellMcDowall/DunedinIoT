@@ -5,6 +5,7 @@ title: Raspberry Pi + Lora MCard AU915 Gateway
 
 # Raspberry Pi + Lora MCard AU915 Gateway
 
+<img src="gatewaypi.jpg" width="400">
 
 ## Prep
 
@@ -13,6 +14,8 @@ title: Raspberry Pi + Lora MCard AU915 Gateway
 First, Format SD card FAT32 - On a Windows machine use:
 
 Download SD card formatter: https://www.sdcard.org/downloads/formatter_4/eula_windows/index.html
+
+<img src="formatting.jpg" width="400">
 
 
 Follow the tutorial here to install Raspian Jessie:
@@ -23,7 +26,11 @@ Additional links:
 
 Latest Raspian Jessie Lite download: http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-07-05/
 
+<img src="jessiedownload.jpg" width="600">
+
 Win32 Disk Imager: https://sourceforge.net/projects/win32diskimager/
+
+<img src="writingimage.jpg" width="400">
 
 
 -----------------
@@ -196,6 +203,8 @@ To run gateway:
 `cd ~/lora/exec`
 
 `sudo ./basic_pkt_fwd`
+
+<img src="data.jpg" widt ="400">
 
 -----------------
 
