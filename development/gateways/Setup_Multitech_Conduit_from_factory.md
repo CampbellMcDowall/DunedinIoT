@@ -26,12 +26,11 @@ You are then asked what type of connection you are making using the ethernet por
 The ip address, mask, gateway address and DNS servers then need to be added.  In this case Google's DNS servers where used.
 
 <img src="./multitechImages/conduitFromFactory/setIP.png" width="300">
+
 Click next when ready to proceed.
 
 <img src="./multitechImages/conduitFromFactory/enableWAN.png" width="300">
-The ports for HTTP and HTTPS can be changed as well as access to the device from WAN and LAN.  Then click the finish button.
-
-The wizard will close and you will see the menu to the left, click Administration and the menu will expand then click on Access Configuration.
+The ports for HTTP and HTTPS can be changed as well as access to the device from WAN and LAN.  Then click the finish button.  The wizard will close and you will see the menu to the left, click Administration and the menu will expand then click on Access Configuration.
 
 <img src="./multitechImages/conduitFromFactory/menuAccessConfig.png" width="300">
 
