@@ -17,5 +17,5 @@ By default DHCP is disabled, When connecting to the conduit you may have to chan
 
 The first time setup wizard then pops up you click next then you have the option to change the password, changing the password is highly recommended.
 
-<img src="./multitechImages/conduitFromFactory/firstUseWizard.png" width="300"><img src="./multitechImages/conduitFromFactory/setPassword.png" width="300">
+<img src="./multitechImages/conduitFromFactory/firstUseWizard.png" width="300"><img src="./multitechImages/conduitFromFactory/setPassword.png" width="400">
 
