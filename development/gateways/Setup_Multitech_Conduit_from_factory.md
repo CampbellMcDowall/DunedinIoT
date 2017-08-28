@@ -5,7 +5,7 @@ title: Setup Multitech Conduit from factory
 
 #  Gateway
 
-<img src="/multitechImages/conduitFromFactory/firstUseWizard.png" width="400">
+<img src="./multitechImages/conduitFromFactory/firstUseWizard.png" width="400">
 
 
 To set up the device for the first time you need to:
