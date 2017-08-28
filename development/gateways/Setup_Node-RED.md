@@ -20,7 +20,7 @@ On the left hand side are the inputs, outputs functions, social, storage, analys
 
 Click and drag the lora input block to the sheet.
 
-<img src="./multitechImages/NodeREDImages/loraNode.png" width="300">
+<img src="./multitechImages/NodeREDImages/loraBlock.png" width="300">
 
 Next click and drag the debug output block to the screen.
 
@@ -37,7 +37,7 @@ Place it between the previous 2 blocks.
 Click and drag the square box beside the lora node and let go over the left side of the function node then link the function 
 node to the debug node the same way.
 
-<img src="./multitechImages/NodeREDImages/connectLoraToFunction.png" width="300"><img src="./multitechImages/NodeREDImages/connectFunctionToDebug.png" width="300">
+<img src="./multitechImages/NodeREDImages/connectLoraToFunction.png" width="300">   <img src="./multitechImages/NodeREDImages/connectFunctionToDebug.png" width="300">
 
 Then double click the function node to edit the function.
 
