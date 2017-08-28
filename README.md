@@ -1,5 +1,4 @@
 ---
-redirect_from: "http://otagopolytechnic.github.io/ThingsNetworkDunedin/"
 layout: default
 title: Home
 ---
