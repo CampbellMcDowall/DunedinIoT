@@ -28,6 +28,7 @@ Next click and drag the debug output block to the screen.
 <img src="./multitechImages/NodeREDImages/debugNode.png" width="300">
 
 Then click and drag the function block from the functions section.
+
 <img src="./multitechImages/NodeREDImages/function.png" width="300">
 
 Place it between the previous 2 blocks.
@@ -35,20 +36,25 @@ Place it between the previous 2 blocks.
 
 Click and drag the square box beside the lora node and let go over the left side of the function node then link the function 
 node to the debug node the same way.
+
 <img src="./multitechImages/NodeREDImages/connectLoraToFunction.png" width="300"><img src="./multitechImages/NodeREDImages/connectFunctionToDebug.png" width="300">
 
 Then double click the function node to edit the function.
+
 <img src="./multitechImages/NodeREDImages/editFunction.png" width="300">
 
 Delete all code in the function section and replace it with the code provided from this url 
 (ftp://ftp.multitech.com/mmm/EVBParserLatest.txt ), note that you may nned to save the code as a notepad file first in some 
 instances(it can depend on the formatting).  Click ok when finished.
+
 <img src="./multitechImages/NodeREDImages/funtionCode.png" width="300">
 
 Double click the debug output node and change the output from message property to complete msg object.  Click ok when finished.
+
 <img src="./multitechImages/NodeREDImages/debugConfig.png" width="300">
 
 To activate this configuration click the deploy button above the debug section on the top right.
+
 <img src="./multitechImages/NodeREDImages/deploy.png" width="300">
 
 On the mDot Box set the mode to LoRa Demo, the gateway will connect and you can then choose an option on how you want the 
@@ -59,9 +65,11 @@ messages to be sent.  Interval or trigger mode.
 
 This output in invalid because we need to change the input data type, double click the lora input node to edit it.
 Change the data type field from UTF-8 to Bytes.  Click ok then click deploy to apply the changes.
+
 <img src="./multitechImages/NodeREDImages/getValidData.png" width="300">
 
 To activate the new configuration click the deploy button.
+
 <img src="./multitechImages/NodeREDImages/deploy.png" width="300">
 
 Now the data is readable.
