@@ -58,16 +58,20 @@ Ensure the enabled check box is checked, change the channel plan to AU915, chang
 
 # Setting up Node-RED
 To use Node-RED after configuring the above you must check the Via WAN check box in Access configuration.
+
 <img src="./multitechImages/conduitFromFactory/enableNodeREDWAN.png" width="300">
 
 To use Node-RED, click apps from the menu.
+
 <img src="./multitechImages/conduitFromFactory/menu.png" width="300">
 
-Check the enabled checkbox and then click launch Node-RED
+Check the enabled checkbox and then click launch Node-RED.
+
 <img src="./multitechImages/conduitFromFactory/nodeREDApp.png" width="300">
 
 Node-RED can then be accessed by going to 192.168.0.155:1880 
 Note the ip address may be different depending on what you set it to during the setup and the port number may also be different if it was changed.  The default login uses the same credentials as used for the Multitech conduit AEP (Application Execution Platform) login.  It is recommended to change the username and/or password before deployment.
+
 <img src="./multitechImages/conduitFromFactory/nodeREDHome.png" width="300">
 
 
