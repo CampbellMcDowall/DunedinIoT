@@ -3,7 +3,7 @@ layout: default
 title: Setup Multitech Conduit from factory
 ---
 
-#  Multitehc Conduit Gateway
+#  Multitech Conduit Gateway
 
 
 
