@@ -37,7 +37,8 @@ Place it between the previous 2 blocks.
 Click and drag the square box beside the lora node and let go over the left side of the function node then link the function 
 node to the debug node the same way.
 
-<img src="./multitechImages/NodeREDImages/connectLoraToFunction.png" width="300">   <img src="./multitechImages/NodeREDImages/connectFunctionToDebug.png" width="300">
+<img src="./multitechImages/NodeREDImages/connectLoraToFunction.png" width="300">
+<img src="./multitechImages/NodeREDImages/connectFunctionToDebug.png" width="300">
 
 Then double click the function node to edit the function.
 
