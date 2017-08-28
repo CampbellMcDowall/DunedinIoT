@@ -66,14 +66,3 @@ Now the data is readable.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
