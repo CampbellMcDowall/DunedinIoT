@@ -3,5 +3,5 @@ markdown: kramdown
 baseurl: /DunedinIoT
 theme: jekyll-theme-cayman
 repository: otagopolytechnic.github.io/DunedinIoT
-plugins:
+plugins_dir:
   - jekyll-redirect-from
