@@ -14,7 +14,7 @@ This repository documents devices and code created/used during developemnt of Du
 ## Gateways
 [Loriot Gateway](http://otagopolytechnic.github.io/DunedinIoT/development/gateways/Loriot-VM-Linux-64-Gateway.html)
 
-[TTN Gateway](http://otagopolytechnic.github.io/TDunedinIoT/development/gateways/iC880a-TTN-Gateway.html)
+[TTN Gateway](http://otagopolytechnic.github.io/DunedinIoT/development/gateways/iC880a-TTN-Gateway.html)
 
 ## Nodes
 [Nodes](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/README.html)
