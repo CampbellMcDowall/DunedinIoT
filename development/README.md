@@ -12,9 +12,12 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 ## Gateways
+[Pi2 and LoRa mCard AU915 for DunedinIoT](https://otagopolytechnic.github.io/DunedinIoT/development/gateways/RaspberryPi2mCardGateway.html)
+
 [Loriot Gateway](http://otagopolytechnic.github.io/DunedinIoT/development/gateways/Loriot-VM-Linux-64-Gateway.html)
 
 [TTN Gateway](http://otagopolytechnic.github.io/DunedinIoT/development/gateways/iC880a-TTN-Gateway.html)
+
 
 ## Nodes
 [Nodes](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/README.html)
