@@ -12,18 +12,18 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 ## Gateways
-[Loriot Gateway](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/gateways/Loriot-VM-Linux-64-Gateway.html)
+[Loriot Gateway](http://otagopolytechnic.github.io/DunedinIoT/development/gateways/Loriot-VM-Linux-64-Gateway.html)
 
-[TTN Gateway](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/gateways/iC880a-TTN-Gateway.html)
+[TTN Gateway](http://otagopolytechnic.github.io/TDunedinIoT/development/gateways/iC880a-TTN-Gateway.html)
 
 ## Nodes
-[Nodes](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/nodes/README.html)
+[Nodes](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/README.html)
 
 ## Sensors
-[Room Sensor](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/roomSensor/README.html)
+[Room Sensor](http://otagopolytechnic.github.io/DunedinIoT/development/roomSensor/README.html)
 
 ## Server
-[TTN Server](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/servers/TTNserver/basicTTNGuide.html)
+[TTN Server](http://otagopolytechnic.github.io/DunedinIoT/development/servers/TTNserver/basicTTNGuide.html)
 
-[LoRa Server](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/servers/LoraserverSetupSteps.html)
+[LoRa Server](http://otagopolytechnic.github.io/DunedinIoT/development/servers/LoraserverSetupSteps.html)
 
