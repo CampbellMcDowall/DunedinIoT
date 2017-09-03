@@ -5,6 +5,9 @@ title: Simplified mDotting - loading pre-made examples for DunedinIoT's mDots
 
 # Simplified mDotting - loading pre-made examples for DunedinIoT's mDots
 
+Note: This should be much easier to follow than the initial "Getting Started" tutorial, as the "leg-work" has been done finding compatible version of libraries and the code was written and tested on our mDots, so I recommend starting here - BK.
+
+
 ## Prep
 
 Assuming you have not already completed these steps at least once:
@@ -60,7 +63,8 @@ Copy the binary file to this drive. The mDot might automatically restart automat
 ## Seeing debug info on a PC over USB
 
 On Windows you must install serial-USB driver from here: http://www.st.com/en/embedded-software/stsw-link009.html
-Open serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies depending on the machine) at 9600 baud.
+
+Open a serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies depending on the machine) at 9600 baud.
 
 If the application runs correctly and the serial monitor is configured correctly you should see debugging output.
 
