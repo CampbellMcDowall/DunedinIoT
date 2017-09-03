@@ -18,9 +18,9 @@ This repository documents a prototype smart room datalogger built using a variet
 
 ## The two main sections are
 
-[Main complete project](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/roomSensor/PartExamples/README.html)
+[Main complete project](http://otagopolytechnic.github.io/DunedinIoT/development/roomSensor/PartExamples/README.html)
 
-[Individual sensor examples](http://otagopolytechnic.github.io/ThingsNetworkDunedin/development/roomSensor/megaSensor/README.html)
+[Individual sensor examples](http://otagopolytechnic.github.io/DunedinIoT/development/roomSensor/megaSensor/README.html)
 
 
 
