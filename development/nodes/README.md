@@ -17,3 +17,5 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 [Haxiot 915 Test](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/Haxiot915Test/README.html)
 
 [mDot (part 1)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDot/README.html)
+
+[MDot (HelloWorld by BK)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDotHelloWorld/README.html)
