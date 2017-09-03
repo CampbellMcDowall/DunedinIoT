@@ -104,7 +104,8 @@ Press reset on the dev board and the program should run.
 ## Seeing debug info on a PC over USB
 
 On Windows you must install serial-USB driver from here: http://www.st.com/en/embedded-software/stsw-link009.html
-Open serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies) at 9600 baud.
+
+Open a serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies) at 9600 baud.
 
 
 
