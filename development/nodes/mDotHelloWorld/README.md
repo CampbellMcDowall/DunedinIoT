@@ -12,7 +12,7 @@ Note: This should be much easier to follow than the initial "Getting Started" tu
 
 Assuming you have not already completed these steps at least once:
 
-Create an account at https://developer.mbed.org
+Create an account at <a href="https://developer.mbed.org">https://developer.mbed.org</a>
 
 Then click Hardware -> Boards.
 
@@ -31,7 +31,7 @@ On the page that loads, on the right, click the "Add to your embed compiler" but
 
 ## Importing our example programs program
 
-Go to: https://developer.mbed.org/users/kellybs1/code/           
+Go to: <a href="https://developer.mbed.org/users/kellybs1/code/">https://developer.mbed.org/users/kellybs1/code/</a>           
 
 For this example we're using a basic "Hello World" program that simply prints a count over the USB/Serial debug output.
 
@@ -62,7 +62,7 @@ Copy the binary file to this drive. The mDot might automatically restart automat
 
 ## Seeing debug info on a PC over USB
 
-On Windows you must install serial-USB driver from here: http://www.st.com/en/embedded-software/stsw-link009.html
+On Windows you must install serial-USB driver from here: <a href="http://www.st.com/en/embedded-software/stsw-link009.html">http://www.st.com/en/embedded-software/stsw-link009.html</a>
 
 Open a serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies depending on the machine) at 9600 baud.
 
