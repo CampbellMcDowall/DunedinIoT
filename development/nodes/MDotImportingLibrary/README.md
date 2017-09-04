@@ -23,7 +23,7 @@ On the right side of screen, click "Import into Compiler"
 In the compiler import popup window change the target folder to the folder of your program.
 Setting "import as" should be "library". Click Import.
 
-<img src="MDotImportingLibrarypics/importasprogram.jpg">
+<img src="MDotImportingLibrarypics/importaslibrary.jpg">
 
 
 ## Include library
