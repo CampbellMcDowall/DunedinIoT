@@ -3,7 +3,7 @@ layout: default
 title: Importing 3rd party sensor libraries into your mDot program
 ---
 
-# Importing 3rd party sensor lbiraries
+# Importing 3rd party sensor libraries
 
 ## Prep
 
