@@ -14,12 +14,12 @@ https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/m
 
 ## Required Hardware
 
-mDot - 915
-MultiTech mDot UDK board
-DHT22 Sensor
-10 KOhm resistor
-330Ohm resistor
-Standard Light Dependent Resistor
+* mDot - 915
+* MultiTech mDot UDK board
+* DHT22 Sensor
+* 10 KOhm resistor
+* 330Ohm resistor
+* Standard Light Dependent Resistor
 
 
 ## Wiring
