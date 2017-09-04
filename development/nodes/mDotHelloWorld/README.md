@@ -29,7 +29,7 @@ Select mDot.
 On the page that loads, on the right, click the "Add to your embed compiler" button.
 
 
-## Importing our example programs program
+## Importing our example program
 
 Go to: <a href="https://developer.mbed.org/users/kellybs1/code/">https://developer.mbed.org/users/kellybs1/code/</a>           
 
