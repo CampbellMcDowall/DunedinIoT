@@ -48,6 +48,9 @@ li > ul{
     text-decoration: none;
 }
 
+@media screen and (max-width: 42em) { li.dropdown { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
+  li.dropdown + li.dropdown { margin-top: 1rem; margin-left: 0; } }
+
 .page-header li.dropdown {
     display: inline-block;
 }
