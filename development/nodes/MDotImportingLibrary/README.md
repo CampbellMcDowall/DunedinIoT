@@ -12,6 +12,8 @@ If that is not done, see the Prep section of this file:
 https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/mDotHelloWorld/README.md
 
 
+In the Program Workspace, Create a new program or clone an existing one.
+
 ## Importing library
 
 Go to the webpage of the library you wish to use, eg <a href="https://developer.mbed.org/users/Julepalme/code/DHT22/">https://developer.mbed.org/users/Julepalme/code/DHT22/</a>
