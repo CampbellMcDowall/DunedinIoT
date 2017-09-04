@@ -19,7 +19,7 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 
 ### MDot development 
 
-0. [mDot (part - not entirely necessary)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDot/README.html)
+0. [mDot (part 1 - not entirely necessary)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDot/README.html)
 
 1. [mDot (HelloWorld by BK)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDotHelloWorld/README.html)
 
