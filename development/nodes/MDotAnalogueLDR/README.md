@@ -24,7 +24,7 @@ Standard Light Dependent Resistor
 
 Using the corresponding Arduino pins on the UDK
 
-<img src="MDotAnalogueLDRpics/ldrwiring.jpg" width="600px">
+<img src="MDotAnalogueLDRpics/ldrwiring.jpg" width="400px">
 
 
 ## Importing our example programs program
