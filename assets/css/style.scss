@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+     background-image: url("https://cdn.pixabay.com/photo/2015/05/25/05/27/network-782707_960_720.png");
+}
+
 .page-header ul {
     list-style-type: none;
     margin: 0;
