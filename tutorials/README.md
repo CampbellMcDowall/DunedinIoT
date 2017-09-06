@@ -6,4 +6,4 @@ title: Tutorials
 # Quick Start
 
 ## LoRa Server Tutorial
-[LoRa Tutorial](https://otagopolytechnic.github.io/DunedinIoT/tutorials/loraserverTutorial.html)
+[LoRa Tutorial]({{ site.baseurl }}/tutorials/loraserverTutorial.html)
