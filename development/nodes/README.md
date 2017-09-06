@@ -10,21 +10,21 @@ title: Prototype nodes
 This repository documents prototype nodes developed and used for LoRa WAN testing
 
 
-[Dragino 868 Temp/Humidity](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/Dragino868TempHumid/README.html)
+[Dragino 868 Temp/Humidity]({{ site.baseurl }}/development/nodes/Dragino868TempHumid/README.html)
 
-[Dragino 868 Temp/Humidity/LDR](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/Dragino868TempHumidLDR/README.html)
+[Dragino 868 Temp/Humidity/LDR]({{ site.baseurl }}/development/nodes/Dragino868TempHumidLDR/README.html)
 
-[Haxiot 915 Test](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/Haxiot915Test/README.html)
+[Haxiot 915 Test]({{ site.baseurl }}/development/nodes/Haxiot915Test/README.html)
 
 
 ### MDot development 
 
-0. [mDot (part 1 - not entirely necessary)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDot/README.html)
+0. [mDot (part 1 - not entirely necessary)]({{ site.baseurl }}/development/nodes/mDot/README.html)
 
-1. [mDot (HelloWorld by BK)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/mDotHelloWorld/README.html)
+1. [mDot (HelloWorld by BK)]({{ site.baseurl }}/development/nodes/mDotHelloWorld/README.html)
 
-2. [mDot (Using Analogue input)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/MDotAnalogueLDR/README.html)
+2. [mDot (Using Analogue input)]({{ site.baseurl }}/development/nodes/MDotAnalogueLDR/README.html)
 
-3. [mDot (Importing 3rd party sensor libraries)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/MDotImportingLibrary/README.html)
+3. [mDot (Importing 3rd party sensor libraries)]({{ site.baseurl }}/development/nodes/MDotImportingLibrary/README.html)
 
-4. [mDot (Using Analogue + Digital)](http://otagopolytechnic.github.io/DunedinIoT/development/nodes/MDotDigitalandAnalogue/README.html)
+4. [mDot (Using Analogue + Digital)]({{ site.baseurl }}/development/nodes/MDotDigitalandAnalogue/README.html)
