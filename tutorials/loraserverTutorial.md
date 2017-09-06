@@ -1,3 +1,9 @@
+---
+layout: default
+
+title: LoRa Setup Tutorial
+---
+
 # LoRa Server tutorial
 Welcome to the DunedinIoT LoRa Server tutorial. This page will guide you in setting up your own LoRa equipment with the DunedinIoT LoRa network.  
 ## Links  
@@ -11,7 +17,7 @@ Welcome to the DunedinIoT LoRa Server tutorial. This page will guide you in sett
 To request an account, email [Otago Polytechnic Operations](mailto:op.ead.operations@gmail.com?Subject=New%20User), op.ead.operations@gmail.com. Provide your preferred username in the email. If a user already exists with the username, a similar username will be created. If you don't provide a username, one will be generated for you.  
 You will get a response with your username and temporary password. It is highly recommended that you change your password when you first log in.
 ## Log In 
-When you arrive at [dunediniot.op.ac.nz:8080] you will be presented with the login page.  
+When you arrive at [dunediniot.op.ac.nz](https://dunediniot.op.ac.nz:8080) you will be presented with the login page.  
 ![Login image][loginImage]  
 Type in your provided username and password and click 'Login'. If you forgot your username or password, email [Otago Polytechnic Operations](mailto:op.ead.operations@gmail.com?Subject=Forgot%20Password), op.ead.operations@gmail.com to request a new password.  
 ## Organizations
