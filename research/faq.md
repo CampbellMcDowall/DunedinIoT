@@ -33,3 +33,5 @@ title: Frequently Asked Questions
 
   + With it being open source and relatively new, there is not a whole lot of documentation on it. Getting things to work is difficult and requires a lot of time and research to figure things out.
   
+  
+If you have any further question please contact the [Otago Polytechnic Operations](mailto:op.ead.operations@gmail.com?Subject=New%20User) team at op.ead.operations@gmail.com.
