@@ -1,4 +1,4 @@
-
+	
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -13,8 +13,8 @@
 	
   </head>
   <body>
-    <section class="page-header" src="https://cdn.pixabay.com/photo/2015/05/25/05/27/network-782707_960_720.png">
-     
+    <section class="page-header" >
+      <img  id="menuImg" src="https://cdn.pixabay.com/photo/2015/05/25/05/27/network-782707_960_720.png" alt="none" style="width:960px;height:624px;">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -32,7 +32,6 @@
 	    -->
 	  
 	    <!-- ********************* NEW NAV STUFF ********************* -->
-
 		<a href="{{ site.baseurl }}/" class="btn">Home</a>
 	    	<li class="dropdown">
 		   <a href="javascript:void(0)" class="dropbtn">Development</a>
@@ -40,12 +39,13 @@
 				   <a href="{{ site.baseurl }}/development/gateways/README.html">Gateways</a>
 				   <a href="{{ site.baseurl }}/development/nodes/README.html">Nodes</a>
 				   <a href="{{ site.baseurl }}/development/roomSensor/README.html">Sensors</a>
+				   <a href="{{ site.baseurl }}/development/servers/README.html">Servers</a>
 			   </div>
 	    	</li>
 		<a href="{{ site.baseurl }}/research/README.html" class="btn">Research</a>
     <a href="{{ site.baseurl }}/research/faq.html" class="btn" style="margin-left: -1px;">FAQ</a>     <!--Added link to FAQ page  -->
 	<a href="{{ site.baseurl }}/tutorials/README.html" class="btn" style="margin-left: -1px;">Quick Start</a>     <!--Added link to Quick Start page  -->
-
+	   
 	    <!-- ********************* ADD MORE LINKS HERE ********************* -->
     </section>
 
