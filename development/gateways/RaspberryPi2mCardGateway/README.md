@@ -26,11 +26,11 @@ Additional links:
 
 Latest Raspbian Jessie Lite download: http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-07-05/
 
-<img src="jessiedownload.jpg" width="600">
+<img src="piMCardImages/jessiedownload.jpg" width="600">
 
 Win32 Disk Imager: https://sourceforge.net/projects/win32diskimager/
 
-<img src="piMCardImages/piMCardImages/writingimage.jpg" width="400">
+<img src="piMCardImages/writingimage.jpg" width="400">
 
 
 -----------------
