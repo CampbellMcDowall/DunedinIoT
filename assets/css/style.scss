@@ -4,7 +4,11 @@
 @import "{{ site.theme }}";
 
 .page-header {
-     background-image: url("https://cdn.pixabay.com/photo/2015/05/25/05/27/network-782707_960_720.png");
+     background-image: url('{{ site.baseurl }}/images/Network.jpg');
+     background-repeat: no-repeat;     
+     background-size: 1300px 336px;
+     color: black;
+
 }
 
 .page-header ul {
