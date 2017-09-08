@@ -12,7 +12,8 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 ## Gateways
-[Pi2 and LoRa mCard AU915 for DunedinIoT](\{\{ site.baseurl \}\}/development/gateways/raspberryPi2mCardGateway.html)
+[Pi2 and LoRa mCard AU915 for DunedinIoT]({{ site.baseurl }}/development/gateways/raspberryPi2mCardGateway.html)
+{{ "/development/gateways/raspberryPi2mCardGateway.html" | site.baseurl }}
 
 [Loriot Gateway]({{ site.baseurl }}/development/gateways/Loriot-VM-Linux-64-Gateway.html)
 
