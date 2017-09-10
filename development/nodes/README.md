@@ -32,3 +32,5 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 5. [mDot (Basic LoRaWAN ABP connection)]({{ site.baseurl }}/development/nodes/mDotBasicLoRaConnection/README.html)
 
 6. [mDot (Sleep/wake cycle example)]({{ site.baseurl }}/development/nodes/mDotSleepExample/README.html)
+
+6. [mDot (Fully functional node)]({{ site.baseurl }}/development/nodes/mDotLoRaDHT22LDRSleep/README.html)
