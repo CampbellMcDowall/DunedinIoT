@@ -48,9 +48,9 @@ Near the top of the program, change the network setting values to match the sett
 
 <img src="mDotLoRaDHT22LDRSleeppics/networksettings.jpg" width="700px">
 
-If adaptive data rate is disabled, ie, 'static bool adr = false;'
+If adaptive data rate is disabled, ie, `static bool adr = false;`
 
-Scroll down to'dot->setTxDataRate(mDot::DR2);' and set your required data rate.
+Scroll down to `dot->setTxDataRate(mDot::DR2);` and set your required data rate.
 
 Click "Compile" and download the bin file when prompted.
 
