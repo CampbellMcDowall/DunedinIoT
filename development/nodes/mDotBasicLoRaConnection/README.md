@@ -45,6 +45,13 @@ Near the top of the program, change the network setting values to match the sett
 
 <img src="mDotBasicLoRaConnectionPics/networksettings.jpg" width="700px">
 
+If setting Adaptive Data Rate false:
+
+`static bool adr = false;`
+
+Scroll down to `dot->setTxDataRate(mDot::DR2);`
+
+and set the data rate you wish to use.
 
 Click "Compile" and download the bin file when prompted.
 
