@@ -1,68 +1,30 @@
 ---
 layout: default
-title: Using an mDot to connect to a LoRa network over ABP (Activation by personalisation)
+title: Prototype nodes
 ---
 
-# Using an mDot to connect to a LoRa network over ABP (Activation by personalisation)
+# Prototype nodes
 
 
-## Prep
-
-Must already have mbed.org account set up.
-If that is not done, see the Prep section of this file:
-https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/mDotHelloWorld/README.md
+## Description
+This repository documents prototype nodes developed and used for LoRa WAN testing
 
 
-## Required Hardware
+[Dragino 868 Temp/Humidity]({{ site.baseurl }}/development/nodes/dragino868TempHumid/README.html)
 
-mDot - 915
-MultiTech mDot UDK board
+[Dragino 868 Temp/Humidity/LDR]({{ site.baseurl }}/development/nodes/dragino868TempHumidLDR/README.html)
 
-
-## Wiring
-
-Attach the mDot to the UDK, and attach a 900MHz antenna to the mDot.
-
-<img src="mDotBasicLoRaConnectionPics/mdotudk.jpg" width="400px">
+[Haxiot 915 Test]({{ site.baseurl }}/development/nodes/haxiot915Test/README.html)
 
 
-## Importing our example program
+### MDot development 
 
-Go to: <a href="https://developer.mbed.org/users/kellybs1/code/mDot_LoRa_Connect_ABPA/">https://developer.mbed.org/users/kellybs1/code/mDot_LoRa_Connect_ABPA//</a>           
+0. [mDot (part 1 - not entirely necessary)]({{ site.baseurl }}/development/nodes/mDot/README.html)
 
-This program sends a simple text message to the gateway every ten seconds.
+1. [mDot (HelloWorld by BK)]({{ site.baseurl }}/development/nodes/mDotHelloWorld/README.html)
 
-On the right of the screen, click "Import into Compiler".
+2. [mDot (Using Analogue input)]({{ site.baseurl }}/development/nodes/mDotAnalogueLDR/README.html)
 
-<img src=""mDotBasicLoRaConnectionPics/importintocompiler.jpg">
+3. [mDot (Importing 3rd party sensor libraries)]({{ site.baseurl }}/development/nodes/mDotImportingLibrary/README.html)
 
-In the Compiler click to import the program as a program.
-
-<img src="MDotDigitalandAnaloguepics/importasprogram.jpg">
-
-Near the top of the program, change the network setting values to match the settings required for your LoRaWAN.
-
-<img src="mDotBasicLoRaConnectionPics/networksettings.jpg" width="700px">
-
-
-Click "Compile" and download the bin file when prompted.
-
-<img src="mDotBasicLoRaConnectionPics/savebin.jpg">
-
-
-## Load program onto mDot
-
-Attach the mDot to the UDK board, and attach the UDK to a PC via USB.
-
-The mDot should appear in the pc as a flash drive would for example "MULTITECH (F:)".
-
-Copy the binary file to this drive. The mDot might automatically restart automatically, but if it does not, press the Reset button on the UDK.
-
-## Seeing debug info on a PC over USB
-
-On Windows you must install serial-USB driver from here: <a href="http://www.st.com/en/embedded-software/stsw-link009.html">http://www.st.com/en/embedded-software/stsw-link009.html</a>
-
-Open a serial terminal. I used the Arduino IDE's serial monitor set to the correct COM port (this varies depending on the machine) at 9600 baud.
-
-If the application runs correctly and the serial monitor is configured correctly you should see debugging output, and be recieving packets at the gateway.
-
+4. [mDot (Using Analogue + Digital)]({{ site.baseurl }}/development/nodes/mDotDigitalandAnalogue/README.html)
