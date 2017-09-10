@@ -37,7 +37,7 @@ It also prints an iterating number to show that program flow is only paused by s
 
 On the right of the screen, click "Import into Compiler".
 
-<img src=""mDotSleepExamplePics/importintocompiler.jpg">
+<img src="mDotSleepExamplePics/importintocompiler.jpg">
 
 In the Compiler click to import the program as a program.
 
@@ -46,7 +46,7 @@ In the Compiler click to import the program as a program.
 
 Click "Compile" and download the bin file when prompted.
 
-<img src="mDotBasicLoRaConnectionPics/savebin.jpg">
+<img src="mDotSleepExamplePics/savebin.jpg">
 
 
 ## Load program onto mDot
