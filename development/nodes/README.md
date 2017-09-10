@@ -28,3 +28,7 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 3. [mDot (Importing 3rd party sensor libraries)]({{ site.baseurl }}/development/nodes/mDotImportingLibrary/README.html)
 
 4. [mDot (Using Analogue + Digital)]({{ site.baseurl }}/development/nodes/mDotDigitalandAnalogue/README.html)
+
+5. [mDot (Basic LoRaWAN ABP connection)]({{ site.baseurl }}/development/nodes/mDotBasicLoRaConnection/README.html)
+
+6. [mDot (Sleep/wake cycle example)]({{ site.baseurl }}/development/nodes/mDotSleepExample/README.html)
