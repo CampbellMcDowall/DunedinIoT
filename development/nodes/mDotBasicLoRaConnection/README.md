@@ -34,11 +34,11 @@ This program sends a simple text message to the gateway every ten seconds.
 
 On the right of the screen, click "Import into Compiler".
 
-<img src=""mDotBasicLoRaConnectionPics/importintocompiler.jpg">
+<img src="mDotBasicLoRaConnectionPics/importintocompiler.jpg">
 
 In the Compiler click to import the program as a program.
 
-<img src="MDotDigitalandAnaloguepics/importasprogram.jpg">
+<img src="mDotBasicLoRaConnectionPics/importasprogram.jpg">
 
 Near the top of the program, change the network setting values to match the settings required for your LoRaWAN.
 
