@@ -12,7 +12,7 @@
 #include <DHT.h>
 
 //set the data pin
-#define DHTPIN 8
+#define DHTPIN 2
 
 //set the DHT type 
 #define DHTTYPE DHT22 
