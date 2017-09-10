@@ -15,7 +15,8 @@ https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/m
 
 ## Required Hardware
 
-mDot - 915
+Multitech mDot - 915MHz
+
 MultiTech mDot UDK board
 
 
