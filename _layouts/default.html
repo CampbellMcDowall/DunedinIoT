@@ -14,36 +14,75 @@
   </head>
   <body>
     <section class="page-header" >
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
+ 
+	    
+	    <!--  ********************* OLD NAV STUFF *********************
+  <ul class="dropdownmenu">
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-	    
-	    <!--  ********************* OLD NAV STUFF *********************
+
 	    <a href="{{ site.baseurl }}/" class="btn">Home</a>
 	    <a href="{{ site.baseurl }}/development/README.html" class="btn">Development</a>
 	    <a href="{{ site.baseurl }}/research/README.html" class="btn">Research</a>
-	    -->
-	  
+
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+
+          <a href="{{ site.baseurl }}/" class="btn">Home</a>
+        <li class="dropdown">
+       <a href="javascript:void(0)" class="dropbtn">Development</a>
+         <div class="dropdown-content">
+           <a href="{{ site.baseurl }}/development/gateways/README.html">Gateways</a>
+           <a href="{{ site.baseurl }}/development/nodes/README.html">Nodes</a>
+           <a href="{{ site.baseurl }}/development/roomSensor/README.html">Sensors</a>
+         </div>
+        </li>
+    <a href="{{ site.baseurl }}/research/README.html" class="btn">Research</a>
+    <a href="{{ site.baseurl }}/research/faq.html" class="btn" style="margin-left: -1px;">FAQ</a>     Added link to FAQ page  
+  <a href="{{ site.baseurl }}/tutorials/README.html" class="btn" style="margin-left: -1px;">Quick Start</a>     Added link to Quick Start page  
+</ul>   
+
+-->
+
+
 	    <!-- ********************* NEW NAV STUFF ********************* -->
-		<a href="{{ site.baseurl }}/" class="btn">Home</a>
-	    	<li class="dropdown">
-		   <a href="javascript:void(0)" class="dropbtn">Development</a>
-			   <div class="dropdown-content">
-				   <a href="{{ site.baseurl }}/development/gateways/README.html">Gateways</a>
-				   <a href="{{ site.baseurl }}/development/nodes/README.html">Nodes</a>
-				   <a href="{{ site.baseurl }}/development/roomSensor/README.html">Sensors</a>
-			   </div>
-	    	</li>
-		<a href="{{ site.baseurl }}/research/README.html" class="btn">Research</a>
-    <a href="{{ site.baseurl }}/research/faq.html" class="btn" style="margin-left: -1px;">FAQ</a>     <!--Added link to FAQ page  -->
-	<a href="{{ site.baseurl }}/tutorials/README.html" class="btn" style="margin-left: -1px;">Quick Start</a>     <!--Added link to Quick Start page  -->
-	   
+
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+  <a href="{{ site.baseurl }}/" class="btn">Home</a>
+    <li class="dropdown">
+       <a href="javascript:void(0)" class="dropbtn">Development</a>
+         <div class="dropdown-content">
+           <a href="{{ site.baseurl }}/development/gateways/README.html">Gateways</a>
+           <a href="{{ site.baseurl }}/development/nodes/README.html">Nodes</a>
+           <a href="{{ site.baseurl }}/development/roomSensor/README.html">Sensors</a>
+         </div>
+        </li>
+  <a href="{{ site.baseurl }}/research/README.html" class="btn">Research</a>
+  <a href="{{ site.baseurl }}/research/faq.html" class="btn" style="margin-left: -1px;">FAQ</a>     <!--Added link to FAQ page  -->
+  <a href="{{ site.baseurl }}/tutorials/README.html" class="btn" style="margin-left: -1px;">Quick Start</a>   <!--Added link to Quick Start page  -->
+</div>
+
+<span  id="Menuslider" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+
+  <script>
+  function openNav() {
+      document.getElementById("mySidenav").style.width = "250px";
+  }
+
+  function closeNav() {
+      document.getElementById("mySidenav").style.width = "0";
+  }
+  </script>
+
+	
 	    <!-- ********************* ADD MORE LINKS HERE ********************* -->
     </section>
 
@@ -68,5 +107,7 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+
   </body>
 </html>

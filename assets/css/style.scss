@@ -3,12 +3,56 @@
 
 @import "{{ site.theme }}";
 
+ul.dropdownmenu {
+     list-style-type: none;
+     width: 150px;
+     height: 500px;
+}
+
+li a {
+    display: block;
+    color: #33ccff;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+a.btn {
+     font-weight: bold;  
+     width: 200px;      
+}
+
+a.dropbtn {
+    font-weight: bold; 
+    width: 200px; 
+    height: 50px;
+    color: #33ccff;
+ }
+
+ .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    font-weight: bold; 
+    color: #33ccff;
+ }
+
+ .main-content {
+    background-color: #ededed;
+ }
+ body {
+    background-color: #ededed;
+ }
+
+.project-name {
+    color: #33ccff;
+    text-shadow: 5px 3px #1c48f3;
+}
+
 .page-header {
      background-image: url('{{ site.baseurl }}/images/network.jpg');
-     background-repeat: no-repeat;     
-     background-size: 1800px 336px;
-     color: black;
-
+     background-size: auto;    
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     height: 500px;
+     padding: 1rem 1rem 1rem 1rem;
+     
 }
 
 .page-header ul {
@@ -16,9 +60,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-    border-radius: 25px;
-    text-align: center;
+    
 }
 
 li > ul{
@@ -43,11 +85,10 @@ li > ul{
 .page-header li a {
     display: inline-block;
     color: rgba(255,255,255,0.7);
-    text-align: center;
+    
     padding: 0.75rem 1rem;
     //padding: 14px 16px;
     text-decoration: none;
-
 
 }
 
@@ -81,18 +122,67 @@ li > ul{
     text-align: left;
     color: rgba(255, 255, 255, 0.7); 
     background-color: rgba(255, 255, 255, 0.08); 
-    border-color: rgba(255, 255, 255, 0.2); 
+    border-color: #33ccff; 
     border-style: solid; border-width: 1px; 
     border-radius: 0.3rem; 
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-	
     background: transparent;
-    background-color: #009287; 
+    background-color: #477bc7; 
 
 }
 
-.page-header .dropdown-content a:hover {background-color: #67DF9B}
+.page-header .dropdown-content a:hover {background-color: #33ccff}
 
 .page-header .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.btn + .btn {
+     margin-left: 0rem; 
+}
+
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #33ccff;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+

@@ -5,13 +5,13 @@ layout: default
 title: Home
 ---
 
-# IoT Dunedin
+# Internet of Things Dunedin
 
 ## Our Mission:
 
 To research and develop an open LoRaWAN consisting of one or more gateway devices, multiple sensor devices, and a central server. All of this in the central Dunedin area, to provide access to user data for use in custom mobile/web/desktop applications. We want to record the data retrieved from our multiple sensors into a database to build statistical graphs to cross reference the data with the locations of the other sensors.
 
-### Network Infrastructure
+## Network Infrastructure
 
 The overall infratructure of this system consists of multiple nodes (sensors) connected to their local gateway which will pass through the dedicated frequencies through the LoRaWAN network. This data will then be sent to the central server to be stored in the database and reviewed upon at a later time.
 
