@@ -37,16 +37,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 -----------------------------------------------------
-<span style="color:green;"> text goes here</span>
-<span style="color:white;">
-  <script language="javascript">
-  var x = document.links.length;
-  for (i = 0; i < x; i++) {
-    var thisHREF = document.links[i].href;
-    if (thisHREF.indexOf(window.location.hostname) > -1) thisHREF = thisHREF.replace(".md",".html").replace("/index/","/");
-    document.links[i].setAttribute('href', thisHREF);
-  }
-</span>
-</script>
+
+
 
 
