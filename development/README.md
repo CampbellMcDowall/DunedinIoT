@@ -37,7 +37,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 -----------------------------------------------------
-<span style="color:white">
+<span style="color:white;">
   <script language="javascript">
   var x = document.links.length;
   for (i = 0; i < x; i++) {
