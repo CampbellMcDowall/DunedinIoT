@@ -37,7 +37,8 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 -----------------------------------------------------
-
+<SCRIPT SRC="{{ site.baseurl }}\linkfixer.js">
+</SCRIPT>
 
 
 
