@@ -1,7 +1,3 @@
-# https://github.com/github/pages-gem/issues/69#issuecomment-85481397
-
-# fixes links from md to html 
-
 module ChangeLocalMdLinksToHtml
   class Generator < Jekyll::Generator
     def generate(site)
