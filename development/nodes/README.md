@@ -34,3 +34,9 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 6. [mDot (Sleep/wake cycle example)](mDotSleepExample/README.md)
 
 7. [mDot (Fully functional node)](mDotLoRaDHT22LDRSleep/README.md)
+
+
+
+<br /><br /><br />
+----------------------------------
+<script src="{{ site.baseurl }}/linkfixer.js"></script>
