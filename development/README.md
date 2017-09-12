@@ -13,7 +13,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 ## Gateways
 
-<a href="../development/gateways/README.md">Pi2 and LoRa mCard AU915 for DunedinIoT (md)</a>
+<a href="../development/gateways/README.md">Pi2 and LoRa mCard AU915 for DunedinIoT</a>
 
 
 
@@ -35,7 +35,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 
-
+<br /><br /><br />
 -----------------------------------------------------
 <SCRIPT SRC="{{ site.baseurl }}/linkfixer.js">
 </SCRIPT>
