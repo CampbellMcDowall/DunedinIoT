@@ -38,4 +38,6 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 
-
+<br /><br /><br />
+----------------------------------
+<script src="{{ site.baseurl }}/linkfixer.js"></script>
