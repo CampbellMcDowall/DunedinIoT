@@ -37,7 +37,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 -----------------------------------------------------
-<span style=“color:green;”> text goes here</span>
+<span style="color:green;"> text goes here</span>
 <span style="color:white;">
   <script language="javascript">
   var x = document.links.length;
