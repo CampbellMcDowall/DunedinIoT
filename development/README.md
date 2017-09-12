@@ -34,11 +34,17 @@ This repository documents devices and code created/used during developemnt of Du
 [LoRa Server]({{ site.baseurl }}/development/servers/LoraserverSetupSteps.html)
 
 
+
+
+
+
+
+
 <script language="javascript">
 var x = document.links.length;
 for (i = 0; i < x; i++) {
   var thisHREF = document.links[i].href;
-  if (thisHREF.indexOf(window.location.hostname) > -1) thisHREF = thisHREF.replace(".md","/").replace("/index/","/");
+  if (thisHREF.indexOf(window.location.hostname) > -1) thisHREF = thisHREF.replace(".md",".html").replace("/index/","/");
   document.links[i].setAttribute('href', thisHREF);
 }
 </script>
