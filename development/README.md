@@ -17,7 +17,7 @@ This repository documents devices and code created/used during developemnt of Du
 
 
 
-[Loriot Gateway]({{ site.baseurl }}/development/gateways/Loriot-VM-Linux-64-Gateway.html)
+[Loriot Gateway]({{ site.baseurl }}/development/gateways/loriot-VM-Linux-64-Gateway.html)
 
 [TTN Gateway]({{ site.baseurl }}/development/gateways/iC880a-TTN-Gateway.html)
 
