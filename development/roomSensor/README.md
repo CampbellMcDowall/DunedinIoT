@@ -18,9 +18,9 @@ This repository documents a prototype smart room datalogger built using a variet
 
 ## The two main sections are
 
-a href="../development/roomSensor/PartExamples/README.html">Main complete project</a>
+a href="../development/roomSensor/PartExamples/README.md">Main complete project</a>
 
-<a href="../development/roomSensor/megaSensor/README.html">Individual sensor examples</a>
+<a href="../development/roomSensor/megaSensor/README.md">Individual sensor examples</a>
 
 
 
