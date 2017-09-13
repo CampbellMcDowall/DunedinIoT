@@ -7,10 +7,19 @@ title: Gateways
 
 ## Pi 2 / mCard AU915
 
-[Pi-2-mCard-AU915](https://otagopolytechnic.github.io/DunedinIoT/development/gateways/raspberryPi2mCardGateway/README.html)
+<a href="raspberryPi2mCardGateway/README.md">Pi-2-mCard-AU915</a>
 
 ## The Things Network
-[iC880a-TTN](https://otagopolytechnic.github.io/DunedinIoT/development/gateways/iC880a-TTN-Gateway.html)
+<a href="iC880a-TTN-Gateway.md">iC880a-TTN</a>
 
 ## Loriot
-[Loriot-VM-Linux-64](https://otagopolytechnic.github.io/DunedinIoT/development/gateways/loriot-VM-Linux-64-Gateway.html)
+<a href="loriot-VM-Linux-64-Gateway.md">Loriot-VM-Linux-64</a>
+
+
+
+
+
+
+<br /><br /><br />
+----------------------------------
+<script src="{{ site.baseurl }}/linkfixer.js"></script>
