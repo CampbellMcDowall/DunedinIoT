@@ -19,21 +19,21 @@ This repository documents devices and code created/used during developemnt of Du
 <a href="{{ site.baseurl }}/development/gateways/README.md">Pi2 and LoRa mCard AU915 for DunedinIoT</a> <--- only works on Jekyll
 
 
-<a href="../development/gateways/loriot-VM-Linux-64-Gateway.html">Loriot Gateway</a>
+<a href="../development/gateways/loriot-VM-Linux-64-Gateway.md">Loriot Gateway</a>
 
-<a href="../development/gateways/iC880a-TTN-Gateway.html">iC880a TTN Gateway</a>
+<a href="../development/gateways/iC880a-TTN-Gateway.md">iC880a TTN Gateway</a>
 
 
 ## Nodes
-<a href="../development/nodes/README.html">Nodes</a>
+<a href="../development/nodes/README.md">Nodes</a>
 
 ## Sensors
-<a href="../development/roomSensor/README.html">Room Sensor</a>
+<a href="../development/roomSensor/README.md">Room Sensor</a>
 
 ## Server
-<a href="../development/servers/TTNserver/basicTTNGuide.html">TTN Server</a>
+<a href="../development/servers/TTNserver/basicTTNGuide.md">TTN Server</a>
 
-<a href="../development/servers/LoraserverSetupSteps.html">LoRa Server</a>
+<a href="../development/servers/LoraserverSetupSteps.md">LoRa Server</a>
 
 
 
