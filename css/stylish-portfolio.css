@@ -235,6 +235,7 @@ hr.small {
 }
 
 
+
 /* Map */
 
 .map {
@@ -265,4 +266,9 @@ footer {
     bottom: 5px;
     display: none;
     padding: 15px 20px;
+}
+
+.img-responsive {
+    width: 850px;
+    height: 500px;
 }

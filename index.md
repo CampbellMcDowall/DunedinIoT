@@ -17,7 +17,8 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
 
 ### Network Diagram
 
-![alt text](https://otagopolytechnic.github.io/DunedinIoT/Archive/images/Network Diagram.png)
+
+<img src="https://otagopolytechnic.github.io/DunedinIoT/Archive/images/Network Diagram.png" class="img-responsive">
 
 
 ### Current Status:
