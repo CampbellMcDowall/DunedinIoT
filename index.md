@@ -63,7 +63,7 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
                     <strong>Development</strong>
                   </h4>
                   <p>Development process</p>
-                  <a href="#" class="btn btn-light">View</a>
+                  <a href="development/README.html" class="btn btn-light">View</a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
