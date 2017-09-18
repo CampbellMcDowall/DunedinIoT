@@ -21,6 +21,33 @@ h4
 {
     color: #959292; 
 }
+h1#Research {
+     text-align: center;
+}
+
+img#researchImg {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    
+}
+
+h1#deviceheader{
+ text-align: center;    
+}
+
+h2#deviceheader{
+ text-align: center;    
+}
+
+p#devicetext {
+  
+}
+    
+img#deviceImg {
+    width: 50%;
+    height: 50%;
+}
 
 .text-vertical-center {
     display: table-cell;
