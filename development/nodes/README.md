@@ -16,6 +16,8 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 
 [Haxiot 915 Test](haxiot915Test/README.md)
 
+[Dragino 915 Shield](dragino915Shield/README.html) 
+
 
 ### MDot development 
 
