@@ -5,14 +5,10 @@ layout: default
 title: Home
 ---
 <br/>
-
 # **Our Mission**
-<hr class="medium">
 
 To research and develop an open LoRaWAN consisting of one or more gateway devices, multiple sensor devices, and a central server. All of this in the central Dunedin area, to provide access to user data for use in custom mobile/web/desktop applications. We want to record the data retrieved from our multiple sensors into a database to build statistical graphs to cross reference the data with the locations of the other sensors.
 <br/>
-
-<hr class="medium">
 
 ### Current Status:
 Planning to buy and build the enclosures for the gateway.
@@ -27,9 +23,11 @@ Build the gateways and have them up and working by week 8.
 
 The overall infratructure of this system consists of multiple nodes (sensors) connected to their local gateway which will pass through the dedicated frequencies through the LoRaWAN network. This data will then be sent to the central server to be stored in the database and reviewed upon at a later time.
 
-<hr class="medium">
 
-### Network Diagram
+
+<center> 
+<h2>Network Diagram </h2>
+</center>
 <br/>
 
 <img src="https://otagopolytechnic.github.io/DunedinIoT/Archive/images/Network Diagram.png" class="img-responsive">
@@ -52,7 +50,7 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
                     <strong>Github</strong>
                   </h4>
                   <p>View on Github</p>
-                  <a href="#" class="btn btn-light">View</a>
+                  <a href="{{ site.github.repository_url }}" class="btn btn-light">View</a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
@@ -78,7 +76,7 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
                     <strong>Research</strong>
                   </h4>
                   <p>Research into IoT technologies</p>
-                  <a href="#" class="btn btn-light">View</a>
+                  <a href="{{ site.baseurl }}/research/README.html" class="btn btn-light">View</a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
@@ -113,16 +111,16 @@ This data can then be used accessed and used by an end user. Although very simil
 different technology to achieve *this*. Our Iot solution is implemented using LoRaWAN.
 <br/>
 <br/>
+<hr class="medium">
 
 ## LoRaWAN Network
 LoRaWAN is a low-power, long-range wide area network standard devised by the LoRa Alliance.
 It is intended for long-life, battery operated sensor devices to communicate sensed data to a central server via one or more internet-connected gateway devices capable of receiving radio transmissions. LoRaWAN targets key requirements of the IoT such as secure bi-directional communication, mobility and localisation services. The main reason we want to use LoRaWAN is because of its Low Power Long Range capability. There are other technologies that offer this functionality, however we have chosen to use LoRa because of how it is open source.
 <br/>
 <br/>
-<hr class="medium">
+
 
 ### Advantages and disadvantages of LoRa vs other technologies
-<br/>
 
 #### LoRa vs LoRaWAN
 LoRaWAN includes the network layer opposed to LoRa which only contains the link layer protocol so it's possible to send information to any Base Station already connected to a cloud patform.

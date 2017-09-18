@@ -20,7 +20,9 @@
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Custom CSS -->
+    
     <link href="css/stylish-portfolio.css" rel="stylesheet">
+   
 
   </head>
 
@@ -53,18 +55,16 @@
           <li><a href="{{ site.baseurl }}/development/roomSensor/README.html">Sensors</a></li>
         </ul>
       </li>
-         
-
         </li>
-        <li>
-          <a class="js-scroll-trigger" href="{{ site.baseurl }}/research/faq.html">FAQ</a>
+         <li>
+          <a class="js-scroll-trigger" href="{{ site.baseurl }}/research/README.html">Research</a>
         </li>
         <li>
           <a class="js-scroll-trigger" href="{{ site.baseurl }}/tutorials/README.html">Quickstart</a>
         </li>
         <li>
-          <a class="js-scroll-trigger" href="{{ site.baseurl }}/research/README.html">Research</a>
-        </li>
+          <a class="js-scroll-trigger" href="{{ site.baseurl }}/research/faq.html">FAQ</a>
+        </li>  
         <li>
           <a class="js-scroll-trigger" href="#contact" onclick=$( "#menu-close").click();>Contact</a>
         </li>
@@ -79,17 +79,10 @@
       </div>
     </header>
 
-
-
-
-	
 	    <!-- ********************* ADD MORE LINKS HERE ********************* -->
 
-    <section class="container text-center">
+    <section class="container">
       {{ content }}
-
-
-
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
