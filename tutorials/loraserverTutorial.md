@@ -22,11 +22,17 @@ When you arrive at [dunediniot.op.ac.nz](https://dunediniot.op.ac.nz:8080) you w
 Type in your provided username and password and click 'Login'. If you forgot your username or password, email [Otago Polytechnic Operations](mailto:op.ead.operations@gmail.com?Subject=Forgot%20Password), op.ead.operations@gmail.com to request a new password.  
 ## Organizations
 Organizations manage groups of [applications](#applications), [gateways](#gateways) and users. For example, Otago Polytechnic has their own organization to manage their applications, all of their gateways and the polytechnic students managing the network.  
-An organization manages their own gateways and applications, so it is up to the administrators of each organization to make sure the appllications and gateways are configured properly.  
+An organization manages their own gateways and applications, so it is up to the administrators of each organization to make sure the applications and gateways are configured properly.  
+You can view all Organizations by clicking on the Organizations link in the top navigatioin bar.  
+![Organizations][organizations]  
 Before you can upload data information, you need to create/join an organization.  To request a new organization email [Otago Polytechnic Operations](mailto:op.ead.operations@gmail.com?Subject=New%20Organization), op.ead.operations@gmail.com and specify your organization name. The user who creates the organization will be assigned admin permissions within the context of the organization.
+Once you have an Organization, you can view all the data for your organization.  
+To view your organization info, log in as an organization admin, click on Organizations and open the organization you own. You will be presented with the application page and can navigate between Applications, Gateways, Organization configuration, and Organization users.
+![Specific organization information][organizationInformation]
 ## Gateways
 Gateways allow [nodes](#nodes) to send their data to the loraserver, as long as the server is in range.  
-After logging in as an admin, click on Organizations and open the organization you own. Then click on Gateways -> Create Gateway.  
+After logging in as an organization admin, click on Organizations and open the organization you own. Then click on Gateways to view the list og gateways you own.
+![List of gateways][gateways]
 You will be presented with the gateway creation form. The webpage will ask to know your position, this simply helps set the gateway location. You will need:  
 - Gateway name: an organizationally unique name for the gateway. The name may only contain words, numbers and dashes.
 - Gateway description: a short description of the gateway. This will let others know a bit more about the gateway sych as manufacture, location, purpose, whatever you feel is necessary.
@@ -35,16 +41,19 @@ You will be presented with the gateway creation form. The webpage will ask to kn
 - Gateway altitude (optional): the number of meters above sea level of the gateway.
 - Gateway location (optional): the latitude and longitude of the gateway, which can be easily positioned using the map
     - If the gateway has an on-board GPS, latitude longitude and altitude are set automatically.
+![New gateway form][newGateway]	
 
 ## Applications
 Applications are groups of nodes that collect similar data. For example, the Otago Polytechnic organization has two applications: one that manage room temperatures in D block and one to manage soil-water levels around the gardens at polytechnic. It is an easy way to manage a lot of nodes, all sending their own data.  
-Organization admins can create new applications and add nodes. To create a new application, login as an admin, click on Organizations and open the organization you own. Then click on Applications -> Create Application.  
-You will be presented with the application creation form. You will need:  
+Organization admins can create new applications and add nodes. To view your applicationa, login as an admin, click on Organizations and open the organization you own, then click on Applications.
+When creating a new application, you will be presented with the application creation form. You will need:  
 - Application name: an organizationally unique name for the application . The name may only contain words, numbers and dashes.
 - Application description: a short description of the application. This will let others know a bit more about the application, the kind of data the application collects, or any information you consider relevant.
+![New application form][newApplication]
 
 The application needs its network settings configured. This will set the default configuration for nodes and their default activation method:  
 To configure the netowrk settings, click on Application configuration -> Network settings.  
+![Network Settings][applicationNetworkSettings]
 There are two forms of activation:  
 Over the air activation (OTAA) is a simple method that connects nodes to the network remotely using the LoRa network.  
 Activation by personalisation (ABP) uses manual activation of the node and, when selected, disables OTAA.  
@@ -68,4 +77,14 @@ If you are using ABP, you will need:
 - Device Address: The logical address used to identify the node on the network.
 - Network Session Key: Encryption key between the node and the server used for transmissions and to validate the integrity of messages.
 - Application Session Key: Encryption key between the node and the user (via the application) used for transmissions and to validate the integrity of messages.
-[loginImage]: images/login.png "Login Image"
+![New node][newNode]
+[loginImage]: loraserverTutorialImages/login.png "Login Image"
+[organizations]: loraserverTutorialImages/organizations.png "organizations"
+[organizationInformation]: loraserverTutorialImages/organizationInformation.png "organization information"
+[gateways]: loraserverTutorialImages/gateways.png "gateways"
+[newGateway]: loraserverTutorialImages/newGateway.png "new gateway"
+[newApplication]: loraserverTutorialImages/newApplication.png "new application"
+[applicationNetworkSettings]: loraserverTutorialImages/applicationNetworkSettings.png "application network settings"
+[nodes]: loraserverTutorialImages/nodes.png "nodes"
+[newNode]: loraserverTutorialImages/newNode.png "new node"
+
