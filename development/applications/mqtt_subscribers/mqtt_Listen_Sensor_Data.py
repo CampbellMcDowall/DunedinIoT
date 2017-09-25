@@ -19,7 +19,7 @@ from pymongo import MongoClient
 from bson import json_util
 
 # MQTT Settings 
-MQTT_Broker = "10.118.0.142"
+MQTT_Broker = "https://iot.op-bit.nz"
 MQTT_Port = 1883
 Keep_Alive_Interval = 45
 MQTT_Topic = "application/#" # subscribe to all incoming messages that begin with application/
