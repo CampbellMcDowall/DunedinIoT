@@ -68,4 +68,6 @@ sudo groupadd cacert
 sudo usermod dunedinadmin -aG cacert
 cd /etc/letsencrypt
 sudo chgrp -R cacert live
+sudo chgrp cacert live
+sudo chmod -R 774 live
 ``` 
