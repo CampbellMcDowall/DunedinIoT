@@ -51,4 +51,7 @@ You should now be able to see the standard packet forwarder output.
 
 
 
+<br /><br /><br />
+----------------------------------
+<script src="{{ site.baseurl }}/linkfixer.js"></script>
 
