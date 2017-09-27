@@ -85,6 +85,10 @@
 	    <!-- ********************* ADD MORE LINKS HERE ********************* -->
 
     <section class="container">
+	
+<!-- BREADCRUMBS CODE 	-->
+{% include breadcrumbs.html path=page.path title=page.title %}
+<!-- END BREADCRUMBS -->
       {{ content }}
       <footer class="site-footer">
         {% if site.github.is_project_page %}
