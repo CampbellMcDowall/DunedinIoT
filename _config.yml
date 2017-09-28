@@ -5,3 +5,4 @@ theme: jekyll-theme-cayman
 repository: otagopolytechnic/DunedinIoT
 plugins_dir:
   - jekyll-redirect-from
+

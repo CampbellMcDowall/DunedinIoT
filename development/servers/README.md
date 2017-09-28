@@ -1,3 +1,8 @@
+---
+layout: default
+title: LoRaServer Setup Steps
+---
+
 1. Run <code>cat /etc/*-release</code> and copy the DISTRIB_ID and DISTRIB_CODENAME values.
 
 2. Install the LoRa Server Debian repository. Replace DISTRIB_ID and DISTRIB_CODENAME with the values copied earlier.

@@ -7,19 +7,37 @@ title: Prototype nodes
 
 
 ## Description
-This repository documents prototype nodes developed and used for LoRa WAN testing
+This repository documents prototype nodes developed and used for LoRa WAN testing.
 
 
-[Dragino 868 Temp/Humidity](dragino868TempHumid/README.md)
+### What is a node?
 
-[Dragino 868 Temp/Humidity/LDR](dragino868TempHumidLDR/README.md)
+A node is the "feet on the ground" of a LoRa network. It is a device primarily consisting of a sensor device, a LoRa network chip and a programmable "brain" such as an Arduino unit.
 
-[Haxiot 915 Test](haxiot915Test/README.md)
+The node's job is to sense real world data and send it on to a LoRa gateway. The actual programmed behaviour of the node can vary widely, depending on power requirements, amount of data required, and how often the data should be sent.
 
-[Dragino 915 Shield](dragino915Shield/README.md) 
+The following examples are prototype development attempts, including how-tos for functions such as reading sensor data, using sleep functions, and USB debugging.
+
+The examples are designed to be easy to build upon to develop future nodes.
+
+
+### Arduino nodes
+
+These examples catalogue our first attempts at building prototype nodes based on the Arduino.
+
+[Dragino 868Mhz Temp/Humidity](dragino868TempHumid/README.md)
+
+[Dragino 868Mhz Temp/Humidity/LDR](dragino868TempHumidLDR/README.md)
+
+[Haxiot 915Mhz Test](haxiot915Test/README.md)
+
+[Dragino 915Mhz Shield](dragino915Shield/README.md) 
 
 
 ### MDot development 
+
+The Multitech mDot has become our node platform of choice due to ease of programming and building nodes due to community and manufacturer support, and official support for the NZ/AU frequencies the Dunedin IoT project is using.
+
 
 0. [mDot (part 1 - not entirely necessary)](mDot/README.md)
 
