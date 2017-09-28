@@ -15,10 +15,6 @@ This repository documents devices and code created/used during developemnt of Du
 
 <a href="../development/gateways/README.md">Pi2 and LoRa mCard AU915 for DunedinIoT</a>
 
-
-<a href="{{ site.baseurl }}/development/gateways/README.md">Pi2 and LoRa mCard AU915 for DunedinIoT</a> <--- only works on Jekyll
-
-
 <a href="../development/gateways/loriot-VM-Linux-64-Gateway.md">Loriot Gateway</a>
 
 <a href="../development/gateways/iC880a-TTN-Gateway.md">iC880a TTN Gateway</a>

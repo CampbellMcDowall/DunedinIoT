@@ -5,7 +5,8 @@ layout: default
 title: Home
 ---
 <br/>
-# **Our Mission**
+
+<h1 id= "deviceheader">Our Mission</h1>
 
 To research and develop an open LoRaWAN consisting of one or more gateway devices, multiple sensor devices, and a central server. All of this in the central Dunedin area, to provide access to user data for use in custom mobile/web/desktop applications. We want to record the data retrieved from our multiple sensors into a database to build statistical graphs to cross reference the data with the locations of the other sensors.
 <br/>
@@ -30,7 +31,7 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
 </center>
 <br/>
 
-<img src="https://otagopolytechnic.github.io/DunedinIoT/Archive/images/Network Diagram.png" class="img-responsive">
+<img src="https://otagopolytechnic.github.io/DunedinIoT/img/NetworkDiagram.png" class="img-responsive">
 
 <hr class="medium">
 
@@ -75,7 +76,7 @@ The overall infratructure of this system consists of multiple nodes (sensors) co
                   <h4>
                     <strong>Research</strong>
                   </h4>
-                  <p>Research into IoT technologies</p>
+                  <p>Research into IoT</p>
                   <a href="{{ site.baseurl }}/research/README.html" class="btn btn-light">View</a>
                 </div>
               </div>
