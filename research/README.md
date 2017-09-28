@@ -15,10 +15,11 @@ We also considered server side stuff and on how to input commands to gather data
 
 We looked into what LoRa is advantages and disadvantages comparisons with similar technology. <br><br>
 
-What IoT is itself what it stands for and examples of IoT devices where IoT can be applied to. <br><br>
+What IoT is itself what it stands for and examples of IoT devices where IoT can be applied to. <br><br><br>
 </p>
 </div>
-
+<br>
+<br>
 <hr class="large">
 
 <h2>Gateway</h2> 
