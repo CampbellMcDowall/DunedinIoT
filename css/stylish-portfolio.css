@@ -37,18 +37,24 @@ img#researchImg {
 h1#deviceheader{
  text-align: center;    
 }
+p#researchTxt {
+    width: 50%;
+    align-content: center;  
+}
+
 
 h2#deviceheader{
- text-align: center;    
+ width: 50%;     
 }
 
 p#devicetext {
-  text-align: center;
+  width: 50%;
 }
-    
+ 
 img#kerlink {
     width: 40%;
     height: 30%;
+    
     
 }
 img#multiconnect {
@@ -59,7 +65,7 @@ img#multiconnect {
 img#mDot {
     width: 30%;
     height: 30%;
-    
+   
 }
 img#haxiot {
     width: 40%;
@@ -69,8 +75,18 @@ img#haxiot {
 img#arduino {
     width: 30%;
     height: 30%;
-    
-} /* Research pages css end */
+
+} 
+div#kerlink {
+    width:  50%;
+    float:  left;   
+}
+div#multiconnect
+{
+    float:  right;  
+}
+
+/* Research pages css end */
 
 .text-vertical-center {
     display: table-cell;
