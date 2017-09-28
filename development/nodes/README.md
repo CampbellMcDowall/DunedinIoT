@@ -14,7 +14,7 @@ This repository documents prototype nodes developed and used for LoRa WAN testin
 
 A node is the "feet on the ground" of a LoRa network. It is a device primarily consisting of a sensor device, a LoRa network chip and a programmable "brain" such as an Arduino unit.
 
-The node's job is to sense real world data and send it on to a LoRa gateway. The actual programmed behaviour of the node can vary widely, depending on powere requirements, amount of data required, and how often the data should be sent.
+The node's job is to sense real world data and send it on to a LoRa gateway. The actual programmed behaviour of the node can vary widely, depending on power requirements, amount of data required, and how often the data should be sent.
 
 The following examples are prototype development attempts, including how-tos for functions such as reading sensor data, using sleep functions, and USB debugging.
 
