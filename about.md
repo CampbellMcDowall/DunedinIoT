@@ -59,7 +59,7 @@ title: About
   <div class="col-8" style="margin-top: 20px;">
   <h3>Nick Mowat</h3>
   <p>I'm Studying in my Final Year of the BiT Bachelor’s degree at Otago Polytechnic.
-    I am a member of the Internet of Things project group, my contributions to the team have been research into Lora WAN and what ‘Internet of Things’ is. As well as Web development, meeting and planning with the engineering department to assist with us in the build. My main interests include Web development and Networks.</p></div>
+    I am a member of the Internet of Things project group, my contributions to the team have been research into Lora WAN and what ‘Internet of Things’ is. As well as Website development, meeting and planning with the engineering department to assist with us in the build. My main interests include Web development and Networks.</p></div>
 </div>
 
 <div class="row">

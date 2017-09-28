@@ -21,6 +21,8 @@ h4
 {
     color: #959292; 
 }
+
+/* Research pages css start: */
 h1#Research {
      text-align: center;
 }
@@ -41,13 +43,34 @@ h2#deviceheader{
 }
 
 p#devicetext {
-  
+  text-align: center;
 }
     
-img#deviceImg {
-    width: 50%;
-    height: 50%;
+img#kerlink {
+    width: 40%;
+    height: 30%;
+    
 }
+img#multiconnect {
+    width: 45%;
+    height: 30%;
+   
+}
+img#mDot {
+    width: 30%;
+    height: 30%;
+    
+}
+img#haxiot {
+    width: 40%;
+    height: 40%;
+    
+}
+img#arduino {
+    width: 30%;
+    height: 30%;
+    
+} /* Research pages css end */
 
 .text-vertical-center {
     display: table-cell;
@@ -312,4 +335,45 @@ footer {
 li.fa.fa-times::before
 {
     margin-left: -14px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #0099cc;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 130px;
+  height: 60px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
 }
