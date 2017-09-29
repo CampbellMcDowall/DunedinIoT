@@ -14,7 +14,8 @@ Right click and choose open Network and Sharing Centre.
 <img src="changingNetworkImages/taskbar.png" width="300">
 
 
-This is the screen you will be taken to…
+This is the screen you will be taken to.
+
 <img src="changingNetworkImages/networkAndSharing.png" width="600">
 
 
