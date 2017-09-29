@@ -56,7 +56,7 @@ Then click the save and restart option from the menu, click confirm to proceed.
 
 To set up the LoRa network server go to the LoRa Network Server option under the setup menu.
 
-<img src="./multitechImages/conduitFromFactory/menuLoraServer.png" width="300">
+<img src="./setupMultitechConduit/conduitFromFactory/menuLoraServer.png" width="300">
 
 Ensure the enabled check box is checked, change the channel plan to AU915, change the frequency sub-band (in this case it is set to 1).  Change the Tx Power (dBm) here it was lowered from the maximum as for testing only a short range was need.  The Network ID should be set to Name and the Network Key needs to be set to passphrase the Name and Passphrase fields need to match the respective fields you will set for the mDot Box.  Other settings can be ignored for now, click submit when finished.
 
