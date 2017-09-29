@@ -83,7 +83,7 @@ Note the ip address may be different depending on what you set it to during the 
 <img src="conduitFromFactory/nodeREDHome.png" width="300">
 
 ## Continue setting up the Multitech conduit for use with the mDot Box:
-<a href="gateways/setupMultitechConduit/Setup_Node-RED.md">Set up node red for use with mDot Box</a>
+<a href="./setupMultitechConduit/Setup_Node-RED.md">Set up node red for use with mDot Box</a>
 
 
 
