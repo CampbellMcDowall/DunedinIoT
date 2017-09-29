@@ -15,7 +15,7 @@ Right click and choose open Network and Sharing Centre.
 
 
 This is the screen you will be taken to…
-<img src="changingNetworkImages/networkAndSharing.png" width="300">
+<img src="changingNetworkImages/networkAndSharing.png" width="400">
 
 
 Then click the Ethernet connection.
