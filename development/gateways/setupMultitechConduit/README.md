@@ -18,7 +18,6 @@ By default DHCP is disabled so the ip address wont change unless you change it, 
 
 
 
-
 The first time setup wizard then pops up you click next then you have the option to change the password, changing the password is highly recommended.
 
 <img src="conduitFromFactoryImages/firstUseWizard.png" width="300"><img src="conduitFromFactoryImages/setPassword.png" width="400">
