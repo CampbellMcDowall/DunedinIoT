@@ -5,8 +5,21 @@ title: Gateways
 
 # Gateways
 
-## Pi 2 / mCard AU915
+## Description
+This repository documents prototype nodes developed and used for LoRa WAN testing.
 
+
+### What is a gateway?
+
+The gateway (otherwise known as an access point) receives all LoRa radio packets sent by nodes within its range.
+Any node can connect to any of the gateways, every LoRa gateway will pick up the nodes packet even if the gateway does not know the 
+node.
+Gateways typically have a range of between 10 and 15km depending on line of sight, antennas used and the density of interference in the area.  Typically the LoRa gateways are mounted outdoors at a high vantage point to get the best coverage, though some gateways can be indoors with the antenna facing or mounted outside.
+
+The following are different gateways that we are using.
+
+
+## Pi 2 / mCard AU915
 <a href="raspberryPi2mCardGateway/README.md">Pi-2-mCard-AU915</a>
 
 ## The Things Network
