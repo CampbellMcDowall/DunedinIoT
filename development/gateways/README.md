@@ -18,7 +18,7 @@ title: Gateways
 ## Multitech Conduit
 <a href="setupMultitechConduit/README.md">Set up from factory</a>
 
-<a href="setUpNodeRed/Setup_Node-RED.md">Set up node red for use with mDot Box</a>
+<a href="setUpNodeRed/README.md">Set up node red for use with mDot Box</a>
 
 
 
