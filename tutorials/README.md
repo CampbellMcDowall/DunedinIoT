@@ -1,12 +1,18 @@
 ---
 layout: default
-
 title: Tutorials
 ---
 # Quick Start
+<br><br>
 
 ## LoRa Server Tutorial
-[LoRa Tutorial]({{ site.baseurl }}/tutorials/loraserverTutorial.html)
+<a href="../tutorials/loraserverTutorial/README.md">LoRa Server </a>
 
-## LoRa Server
-[Setup Steps]({{ site.baseurl }}/development/servers/LoraserverSetupSteps.html)
+## Github Jekyll
+Building a github pages repository locally with jekyll
+<br>
+<a href="../tutorials/githubJekyll/README.md">Github Pages</a>
+
+<br /><br /><br />
+----------------------------------
+<script src="{{ site.baseurl }}/linkfixer.js"></script>
