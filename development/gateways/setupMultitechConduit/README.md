@@ -16,7 +16,7 @@ By default DHCP is disabled, When connecting to the conduit you may have to chan
 
 The first time setup wizard then pops up you click next then you have the option to change the password, changing the password is highly recommended.
 
-<img src="./setupMultitechConduit/conduitFromFactory/firstUseWizard.png" width="300"><img src="./setupMultitechConduit/conduitFromFactory/setPassword.png" width="400">
+<img src="conduitFromFactory/firstUseWizard.png" width="300"><img src="./setupMultitechConduit/conduitFromFactory/setPassword.png" width="400">
 
 Once you click the next button you are prompted to enter the current date, time and time zone.  Once entered click next.
 <img src="./setupMultitechConduit/conduitFromFactory/setTime.png" width="300">
