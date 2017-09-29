@@ -63,7 +63,8 @@ Ensure the enabled check box is checked, change the channel plan to AU915, chang
 <img src="conduitFromFactory/loraServerConfig.png" width="300">
 
 
-# Setting up Node-RED
+# Setting up Node-RED  
+## this is optional, if you are using the Multitech mDot Box or another service such as IBMs bluemix continue below.
 To use Node-RED after configuring the above you must check the Via WAN check box in Access configuration.
 
 <img src="conduitFromFactory/enableNodeREDWAN.png" width="300">
@@ -80,5 +81,9 @@ Node-RED can then be accessed by going to 192.168.0.155:1880
 Note the ip address may be different depending on what you set it to during the setup and the port number may also be different if it was changed.  The default login uses the same credentials as used for the Multitech conduit AEP (Application Execution Platform) login.  It is recommended to change the username and/or password before deployment.
 
 <img src="conduitFromFactory/nodeREDHome.png" width="300">
+
+## Continue setting up the Multitech conduit for use with the mDot Box:
+<a href="setupMultitechConduit/Setup_Node-RED.md">Set up node red for use with mDot Box</a>
+
 
 
