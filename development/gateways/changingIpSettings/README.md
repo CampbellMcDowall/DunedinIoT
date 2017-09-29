@@ -11,6 +11,7 @@ you are in the same ip address range.
 
 
 Right click and choose open Network and Sharing Centre
+
 <img src="changingNetworkImages/taskbar.png" width="300"><img src="changingNetworkImages/taskbar.png" width="400">
 
 
