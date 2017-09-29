@@ -3,6 +3,8 @@ layout: default
 title: network settings for local development
 ---
 
+# Changing network settings for locally accessing the Multitech Conduit
+
 If you are experiencing issues with connecting to the multitech gateway locally then you may need to ensure 
 you are in the same ip address range.
 
