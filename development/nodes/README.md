@@ -56,6 +56,13 @@ The Multitech mDot has become our node platform of choice due to ease of program
 7. [mDot (Fully functional node)](mDotLoRaDHT22LDRSleep/README.md)
 
 
+### mDot Key formatter
+
+When generating new nodes on the Application Server and entering their session keys into their source code, the keys must be reformatted to a hexadecimal array. This program reformats the server generated key strings:
+
+https://github.com/kellybs1/MDotKeyFormatter
+
+
 
 <br /><br /><br />
 ----------------------------------
