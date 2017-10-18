@@ -30,12 +30,10 @@ On the page that loads, on the right, click the "Add to your embed compiler" but
 
 
 ## Importing our example program
-
-Go to: <a href="https://developer.mbed.org/users/kellybs1/code/">https://developer.mbed.org/users/kellybs1/code/</a>           
-
+        
 For this example we're using a basic "Hello World" program that simply prints a count over the USB/Serial debug output.
 
-Scroll down to mDot_helloworld_bk and click it.
+Go to: <a href="https://os.mbed.com/users/kellybs1/code/mDot_helloworld_bk/">https://os.mbed.com/users/kellybs1/code/mDot_helloworld_bk/</a>
 
 <img src="mDotDunedinIoTpics/findhelloworldbk.jpg">
 
