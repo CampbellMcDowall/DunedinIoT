@@ -38,7 +38,7 @@ These examples catalogue our first attempts at building prototype nodes based on
 
 The Multitech mDot has become our node platform of choice due to ease of programming and building nodes due to community and manufacturer support, and official support for the NZ/AU frequencies the Dunedin IoT project is using.
 
-For future building reference, the pin layout of the mDot model used is available <a href="https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/mDot/mdot_pinout.png">here</a>
+For future building reference, the pin layout of the mDot model used is available <a href="https://github.com/OtagoPolytechnic/DunedinIoT/blob/gh-pages/development/nodes/mDot/mdot-pinout-5.png">here</a>
 
 1. [mDot (HelloWorld by BK)](mDotHelloWorld/README.md)
 
