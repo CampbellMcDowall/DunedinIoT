@@ -38,9 +38,6 @@ These examples catalogue our first attempts at building prototype nodes based on
 
 The Multitech mDot has become our node platform of choice due to ease of programming and building nodes due to community and manufacturer support, and official support for the NZ/AU frequencies the Dunedin IoT project is using.
 
-
-0. [mDot (part 1 - not entirely necessary)](mDot/README.md)
-
 1. [mDot (HelloWorld by BK)](mDotHelloWorld/README.md)
 
 2. [mDot (Using Analogue input)](mDotAnalogueLDR/README.md)
