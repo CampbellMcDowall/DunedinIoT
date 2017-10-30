@@ -57,7 +57,7 @@ The Multitech mDot has become our node platform of choice due to ease of program
 
 When generating new nodes on the Application Server and entering their session keys into their source code, the keys must be reformatted to a hexadecimal array. This program reformats the server generated key strings:
 
-https://github.com/kellybs1/MDotKeyFormatter
+<a href="https://github.com/kellybs1/MDotKeyFormatter">https://github.com/kellybs1/MDotKeyFormatter</a>
 
 
 
