@@ -76,7 +76,7 @@ This is a board with a three-pin socket allowing the attaaching of any analogue 
 
 The basic wiring diagram:
 
-<img src="mDotBatteryImages/BatteryPluginAnalogue.png" width="600">
+<img src="mDotBatteryImages/BatteryPluginAnalogue_bb.png" width="600">
 
 
 This is an image of the physical implementation of the board, with connected wires highlighted:
