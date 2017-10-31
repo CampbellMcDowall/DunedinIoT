@@ -55,6 +55,11 @@ For future building reference, the pin layout of the mDot model used is availabl
 7. [mDot (Fully functional node)](mDotLoRaDHT22LDRSleep/README.md)
 
 
+### Battrey powered Nodes
+
+[mDot (Battery powered Nodes)](mDotBattery/README.md)
+
+
 ### mDot Key formatter
 
 When generating new nodes on the Application Server and entering their session keys into their source code, the keys must be reformatted to a hexadecimal array. This program reformats the server generated key strings:
