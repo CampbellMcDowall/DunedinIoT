@@ -55,9 +55,14 @@ For future building reference, the pin layout of the mDot model used is availabl
 7. [mDot (Fully functional node)](mDotLoRaDHT22LDRSleep/README.md)
 
 
-### Battrey powered Nodes
+### Battery powered Nodes
 
 [mDot (Battery powered Nodes)](mDotBattery/README.md)
+
+
+### mDot/Python/Twitter Frost Alert
+
+[mDot/Python/Twitter Frost Alert](mDotTwitterBot/README.md)
 
 
 ### mDot Key formatter
