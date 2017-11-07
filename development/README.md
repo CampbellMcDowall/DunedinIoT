@@ -19,6 +19,8 @@ This repository documents devices and code created/used during developemnt of Du
 
 <a href="../development/gateways/iC880a-TTN-Gateway.md">iC880a TTN Gateway</a>
 
+<a href="setupMultitechConduit/README.md">Setup Multitech Conduit (from factory)</a>
+
 
 ## Nodes
 <a href="../development/nodes/README.md">Nodes</a>
